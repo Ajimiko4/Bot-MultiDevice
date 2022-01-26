@@ -1,1 +1,1 @@
-worker: npm i jimp && npm start
+worker: npm i jimp && node main
